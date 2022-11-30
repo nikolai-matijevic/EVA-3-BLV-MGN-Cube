@@ -9,3 +9,4 @@ The front and back have been adjusted so the belts can be mounted.
 - ~~Belts have to be twisted 180° in the back to be attached to the tensioners
 - X-Axis endstop requires custom part on the end of the 2020 extrusion to work
 - Y-Axis length is reduced because of interference between part cooling fans and belts
+- Brobe mount needs to be mirrored 
